@@ -1,0 +1,30 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #06040e;
+  font-family:
+    "Plus Jakarta Sans",
+    Manrope,
+    ui-sans-serif,
+    system-ui,
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type="range"] {
+  accent-color: #06040e;
+}
+
+button,
+input {
+  font-family: inherit;
+}
+
+a {
+  text-decoration: none;
+}
