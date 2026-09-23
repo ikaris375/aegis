@@ -8,7 +8,7 @@ function Navbar() {
     { name: "Route Map", href: "#section-risk-map" },
     { name: "Weekly Forecast", href: "#section-analytics" },
     { name: "Disaster Updates", href: "#section-bulletins" },
-    { name: "AI Analyse & Guidance", href: "#section-ai-guidance" },
+    { name: "Aegis AI Guidance", href: "#section-ai-guidance" },
   ];
 
   return (
