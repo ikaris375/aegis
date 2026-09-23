@@ -1,4 +1,4 @@
-# Aegis India
+# GEOSYNC India
 
 Simple React/Vite project structure.
 
