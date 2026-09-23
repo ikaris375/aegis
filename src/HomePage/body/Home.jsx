@@ -466,7 +466,7 @@ function Home() {
 
                   <div className="flex items-center justify-between">
                     <span className="text-[11px] font-bold tracking-eyebrow uppercase text-ink">
-                      7-Day Risk Projections
+                      7Day Risk Projections
                     </span>
 
                     <span className="text-xs font-mono text-graphite">
@@ -480,7 +480,7 @@ function Home() {
                     <div className="flex justify-between text-xs font-medium">
                       <span className="text-ink flex items-center gap-1.5">
                         <span className="w-2.5 h-2.5 rounded-full bg-sky"></span>
-                        Riverine &amp; Pluvial Flood
+                        Riverine &amp; Flood
                       </span>
 
                       <span className="font-bold text-ink">
@@ -580,7 +580,7 @@ function Home() {
                     </span>
 
                     <span>
-                      Prognostic AI Insight (Next 72 Hours)
+                      Aegis AI Insight (Next 72 Hours)
                     </span>
 
                   </div>
@@ -611,7 +611,7 @@ function Home() {
                     forum
                   </span>
 
-                  <span>Ask AI About Kolkata Risks</span>
+                  <span>Ask Aegis about risks</span>
                 </a>
 
               </div>
@@ -631,9 +631,7 @@ function Home() {
           className="w-full bg-fog py-20 border-t border-b border-mist"
           id="section-analytics"
         >
-
           <div className="max-w-7xl mx-auto px-4 md:px-8">
-
             <div className="max-w-3xl mb-8">
 
               <h2 className="font-bold text-3xl md:text-[36px] text-ink tracking-[-0.02em] leading-tight">
@@ -899,14 +897,14 @@ function Home() {
                   </span>
 
                   <h3 className="font-bold text-xl text-ink">
-                    Aegis AI Tactical Guidance
+                    Aegis AI Guidance
                   </h3>
 
                 </div>
 
                 <p className="text-xs text-graphite leading-relaxed">
-                  Query actionable response directives, evacuation protocols,
-                  or severity estimates for your municipal precinct.
+                  Share your problems with Aegis AI, search your region, analyse
+                  landslide risks, find your safest roots through map consulted by Aegis.
                 </p>
 
                 <div className="relative pt-1">
@@ -914,7 +912,7 @@ function Home() {
                   <input
                     className="w-full h-11 pl-4 pr-11 rounded-lg bg-fog border border-mist text-xs text-ink placeholder:text-deep-teal/60 focus:outline-none focus:border-ink"
                     type="text"
-                    defaultValue="What should I do if flooding starts in Kolkata?"
+                    defaultValue="Tell me how can I help you"
                   />
 
                   <button className="absolute right-1.5 top-2.5 w-8 h-8 rounded-lg bg-ink text-paper flex items-center justify-center hover:bg-deep-teal transition-all">
@@ -933,15 +931,15 @@ function Home() {
                   </span>
 
                   <button className="w-full text-left p-3 rounded-lg bg-fog hover:bg-mist text-xs font-medium text-deep-teal transition-colors truncate block border border-mist">
-                    → Which arterial underpasses flood first in North Kolkata?
+                    Which arterial underpasses flood first in North Kolkata?
                   </button>
 
                   <button className="w-full text-left p-3 rounded-lg bg-fog hover:bg-mist text-xs font-medium text-deep-teal transition-colors truncate block border border-mist">
-                    → SDRF boat staging points nearest to Salt Lake Sector V?
+                    SDRF boat staging points nearest to Salt Lake Sector V?
                   </button>
 
                   <button className="w-full text-left p-3 rounded-lg bg-fog hover:bg-mist text-xs font-medium text-deep-teal transition-colors truncate block border border-mist">
-                    → Potable water tanker dispatch schedule for Alipore?
+                    Potable water tanker dispatch schedule for Alipore?
                   </button>
 
                 </div>
@@ -958,15 +956,10 @@ function Home() {
                     <span className="w-2.5 h-2.5 rounded-full bg-emerald-600"></span>
 
                     <span className="font-bold text-sm text-ink">
-                      Verified AI Response Dossier
+                      Verified Aegis response
                     </span>
 
                   </div>
-
-                  <span className="text-[11px] font-mono text-graphite font-bold">
-                    PROTOCOL CAP-IN-2024
-                  </span>
-
                 </div>
 
 
@@ -1089,7 +1082,7 @@ function Home() {
               <div>
 
                 <h2 className="font-bold text-3xl md:text-[36px] text-ink tracking-[-0.02em] leading-tight">
-                  Disaster Intelligence &amp; Early Warnings
+                  Recent Disaster Updates &amp; Early Warnings
                 </h2>
 
                 <p className="text-[16px] text-deep-teal leading-[1.5] mt-2">
@@ -1314,11 +1307,6 @@ function Home() {
               <div className="inline-flex items-center gap-2 px-3 py-1 rounded-2xl bg-paper/15 text-[10px] font-bold tracking-eyebrow uppercase text-cream">
                 Sovereign Emergency Readiness
               </div>
-
-              <h2 className="font-bold text-3xl md:text-4xl text-paper tracking-tight leading-tight">
-                Preparedness Starts With Awareness.
-              </h2>
-
               <p className="text-xs sm:text-sm text-paper/85 leading-relaxed max-w-xl">
                 Connect your state, municipality, or relief operations squad
                 to India's unified real-time disaster intelligence grid.
