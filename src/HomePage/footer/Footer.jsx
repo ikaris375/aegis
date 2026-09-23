@@ -14,7 +14,7 @@ function Footer() {
               </span>
             </div>
             <p className="text-xs text-graphite leading-relaxed">
-              Sayandip Roy
+              © 2026 GEOSYNC by HyperCode . All rights reserved.
             </p>
             <div className="flex items-center gap-2 text-xs font-bold text-deep-teal">
               <span className="w-2 h-2 rounded-full bg-emerald-600"></span>
@@ -57,7 +57,7 @@ function Footer() {
                   className="hover:text-ink transition-colors"
                   href="#section-simulator"
                 >
-                  Urban Inundation Simulator
+                  Terms and Conditions
                 </a>
               </li>
 
